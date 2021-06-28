@@ -4,6 +4,7 @@ let user = {
   name: "jayanth",
   age: 27,
   wife: "swetha",
+  
 };
 
 for (const key in user) {
